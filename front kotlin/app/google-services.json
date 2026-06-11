@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057671778074",
+    "project_id": "way-go-847a9",
+    "storage_bucket": "way-go-847a9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057671778074:android:449084c9161f168c6666a3",
+        "android_client_info": {
+          "package_name": "com.teammirado.waygo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGcduyHkwOD1OSpk313TqwqSpD0HGz07U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
